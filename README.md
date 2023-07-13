@@ -6,7 +6,7 @@ This is a web application built using webpack. A simple text editor that uses sy
 
 ## Usage
 
-Go to the website and click the install button. The app will open outside of the browser and you're ready to take notes.
+Go to the [website](https://thawing-meadow-52076-8bdc599351dd.herokuapp.com/) and click the install button. The app will open outside of the browser and you're ready to take notes.
 
 ## Credits
 
