@@ -11,5 +11,3 @@ Go to the [website](https://thawing-meadow-52076-8bdc599351dd.herokuapp.com/) an
 ## Credits
 
 https://web.dev/stale-while-revalidate/
-
-Module 19, Activity 8 and 26
